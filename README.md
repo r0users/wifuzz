@@ -18,6 +18,6 @@ Wireless penetration testing toolkit dengan antarmuka FZF untuk:
 
 ## 🛠️ Instalasi
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/r0users/wifuzz.git
+cd wifuzz
 chmod +x wifuzz.sh
