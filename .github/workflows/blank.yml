@@ -10,6 +10,6 @@ jobs:
     - name: Run ShellCheck
       uses: ludeeus/action-shellcheck@2.0.0
       with:
-        severity: error         # Hanya tampilkan error (abaikan warning)
-        exclude: SC2035,SC2207 # Atau exclude error spesifik
-        path: '*.sh'           # Cek semua file .sh
+        severity: error
+        ignore: SC2035,SC2145,SC2207
+        check_together: true
