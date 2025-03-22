@@ -1,0 +1,18 @@
+# Logs dan database
+*.log
+*.csv
+*.cap
+*.netxml
+
+# Binary files
+*.bin
+*.dump
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Direktori monitor mode
+/tmp/
+/.trash/
