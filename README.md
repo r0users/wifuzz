@@ -1,7 +1,7 @@
 # Wifuzz 📡🔒
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![ShellCheck](https://github.com/<username>/<repo>/actions/workflows/lint.yml/badge.svg)](https://github.com/<username>/<repo>/actions/workflows/lint.yml)
+[![ShellCheck](https://github.com/r0users/wifuzz/actions/workflows/lint.yml/badge.svg)](https://github.com/r0users/wifuzz/actions/workflows/lint.yml)
 
 Wireless penetration testing toolkit dengan antarmuka FZF untuk:
 - Deauthentication attacks monitoring 🎯
