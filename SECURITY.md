@@ -1,6 +1,6 @@
-# Kebijakan Keamanan
+# Security Policy
 
-## Best Practices
-- Hanya gunakan di jaringan yang diizinkan
-- Destroy capture files setelah penggunaan
-- Jangan sharing handshake files
+This tool is made for **educational and authorized penetration testing only**.  
+The developer is **not responsible** for any misuse, illegal activity, or damage caused by this software.
+
+Use it **legally and ethically**.
