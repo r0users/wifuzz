@@ -19,5 +19,4 @@ chmod +x wifuzz.sh
 ./wifuzz.sh
 ```
 
-## License
-Licensed under the GPLv3.
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
