@@ -1,23 +1,22 @@
-# Wifuzz 📡🔒
+# Eira
 
-[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![ShellCheck](https://github.com/r0users/wifuzz/actions/workflows/lint.yml/badge.svg)](https://github.com/r0users/wifuzz/actions/workflows/lint.yml)
+Eira is a minimalist wireless penetration testing toolkit with an FZF-based interface.  
+Designed for speed, simplicity, and a clean workflow.
 
-Wireless penetration testing toolkit dengan antarmuka FZF untuk:
-- Deauthentication attacks monitoring 🎯
-- Handshake capture otomatis 🤝
-- Manajemen wordlist 📚
-- Network scanning 🔍
+## Features
+- Interactive FZF-based terminal UI
+- Real-time deauthentication monitoring
+- Automatic handshake capture
+- Wordlist management with live preview
+- Automatic handshake verification
+- Auto-cleanup of resources and processes
 
-## ✨ Fitur
-- Antarmuka interaktif dengan FZF
-- Navigasi keyboard-friendly
-- Auto-cleanup resources
-- Preview wordlist
-- Handshake verification otomatis
-
-## 🛠️ Instalasi
+## Installation
 ```bash
-git clone https://github.com/r0users/wifuzz.git
-cd wifuzz
+git clone https://github.com/r0users/eira.git
+cd eira
 chmod +x wifuzz.sh
+./wifuzz.sh
+
+## License
+Licensed under the GPLv3.
