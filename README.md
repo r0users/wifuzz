@@ -16,7 +16,7 @@ Designed for speed, simplicity, and a clean workflow.
 git clone https://github.com/r0users/eira.git
 cd eira
 chmod +x wifuzz.sh
-./wifuzz.sh
+./wifuzz.sh```
 
 ## License
 Licensed under the GPLv3.
